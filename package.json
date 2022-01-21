@@ -1,8 +1,8 @@
 {
-  "name": "next-wordpress-starter",
-  "homepage": "https://next-wordpress-starter.spacejelly.dev",
+  "name": "tecnicos-del-caribe",
+  "homepage": "https://tecnicosdelcaribe.tk",
   "version": "0.1.0",
-  "license": "MIT",
+  "license": "GPLV2",
   "author": "Colby Fayock <hello@colbyfayock.com>",
   "scripts": {
     "build": "next build",
